@@ -1,5 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="S Ganavi GitHub Profile Banner" width="100%">
+</picture>
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=S%20Ganavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://git.io/typing-svg">
