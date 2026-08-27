@@ -3,17 +3,20 @@
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
   <img src="./dark.svg" alt="S Ganavi GitHub Profile Banner" width="100%">
 </picture>
+
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=S%20Ganavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B7CFF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Python+Learner;Technology+Enthusiast;Building+Skills+Through+Projects;Learning+%7C+Building+%7C+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B7CFF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Python+Learner;Exploring+Web+Development;Learning+React;Technology+Enthusiast;Building+Through+Projects;Learning+%7C+Building+%7C+Growing" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/India-4B0082?style=for-the-badge"/>
 
 <br/><br/>
@@ -36,60 +39,103 @@
 
 ---
 
-# About Me
+# 👋 About Me
 
 I am a **B.Tech Artificial Intelligence & Data Science student** with an interest in programming, artificial intelligence, data science, and practical technology projects.
 
-Currently, I am strengthening my foundation in **Python** and exploring data-related technologies through academic learning, certifications, and hands-on projects.
+Currently, I am strengthening my foundation in **Python and Java fundamentals** while exploring **Web Development with HTML, CSS, JavaScript, and React**.
 
-I enjoy learning new technologies, building practical projects, and continuously improving my technical skills.
+I also enjoy learning data-related concepts such as **Introduction to Data Science, Data Warehouse & Data Mining**, along with fundamental machine learning concepts.
 
-### Open To
+I believe in learning by building, experimenting with new technologies, and continuously improving my technical skills through projects and practical experiences.
+
+### 🌱 Open To
 
 - Technical internships
 - Student projects
-- Learning opportunities
 - Collaborative projects
+- Learning opportunities
 - Practical technology experiences
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=python,java"/>
 </p>
 
-### Data & Programming
+**Python** — Learning & building projects  
+**Java** — Java Fundamentals
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
+
+**HTML • CSS • JavaScript • React**
+
+> React is currently part of my learning journey in frontend development.
+
+### 📊 Data & AI
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,numpy,pandas"/>
 </p>
 
-### Tools & Platforms
+- NumPy
+- Pandas
+- Matplotlib
+- Machine Learning Fundamentals
+- Data Preprocessing
+- Introduction to Data Science
+
+### 🧰 Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
+- Git
+- GitHub
+- VS Code
+
 ---
 
-# AI / ML Expertise
+# 📚 Relevant Academic Learning
 
-| Domain | Proficiency | Details |
+Rather than listing every academic subject, I focus on areas that connect with my technical interests.
+
+| Area | Learning |
+|---|---|
+| 🤖 Artificial Intelligence | AI fundamentals |
+| 📊 Data Science | Introduction to Data Science (IDS) |
+| 🗄️ Data | Data Warehouse & Data Mining (DWDM) |
+| 🧠 Machine Learning | Fundamental ML concepts |
+| 💻 Programming | Python & Java Fundamentals |
+| 🌐 Web Development | HTML, CSS, JavaScript & React |
+
+---
+
+# 🧠 AI / ML & Data Learning
+
+| Domain | Level | Focus |
 |---|---|---|
-| Python | Learning | Programming fundamentals and practical development |
+| Python | Learning | Programming fundamentals & projects |
 | NumPy | Learning | Numerical computing |
-| Pandas | Learning | Data manipulation and analysis |
+| Pandas | Learning | Data manipulation |
 | Matplotlib | Learning | Data visualization |
-| Machine Learning | Learning | Fundamental machine learning concepts |
-| Data Preprocessing | Learning | Preparing and transforming datasets |
+| Machine Learning | Learning | Fundamental ML concepts |
+| Data Preprocessing | Learning | Preparing & transforming datasets |
+| Introduction to Data Science | Academic Learning | Data science fundamentals |
+| Data Warehouse & Data Mining | Academic Learning | Data warehousing & mining concepts |
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
 <details>
 <summary><b>Git Practice</b></summary>
@@ -102,8 +148,7 @@ A practical repository created to learn and strengthen Git and GitHub fundamenta
 |---|---|
 | **Stack** | Git, GitHub, Python |
 | **Scale** | Learning project |
-| **Performance** | Focused on understanding version-control workflow |
-| **Security** | GitHub repository-based development |
+| **Focus** | Version-control workflow |
 | **Impact** | Strengthened Git and GitHub fundamentals |
 | **Repository** | [View Repository](https://github.com/Ganavi-2006/git-practice) |
 
@@ -114,66 +159,69 @@ A practical repository created to learn and strengthen Git and GitHub fundamenta
 - Creating commits
 - Connecting local repositories with GitHub
 - Pushing changes
-- Understanding basic GitHub workflow
+- Understanding GitHub workflow
+- Managing project versions
 
 </details>
 
 ---
 
-# Experience
+# 💼 Experience & Internships
 
-### B.Tech — Artificial Intelligence & Data Science
+### 🎓 B.Tech — Artificial Intelligence & Data Science
 
 **Mother Teresa Institute of Engineering and Technology**
 
 Currently pursuing B.Tech in Artificial Intelligence & Data Science.
 
-My academic learning includes programming, databases, data science, machine learning, artificial intelligence, and related technologies.
+My academic journey combines programming, data science, machine learning, artificial intelligence, databases, and web technologies.
 
-**Scope of Learning**
+### 📌 Academic & Technical Focus
 
-- Programming fundamentals
 - Python
-- Database concepts
-- Data science fundamentals
-- Machine learning
-- Artificial intelligence
-- Git and GitHub
-
-**Skills:** `Python` `Git` `GitHub` `AI` `Data Science`
+- Java Fundamentals
+- Machine Learning
+- Artificial Intelligence
+- Introduction to Data Science
+- Data Warehouse & Data Mining
+- Web Development
+- Git & GitHub
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| Academic Performance | Strong academic performance in B.Tech AI & Data Science |
-| AWS Internships | Completed multiple AWS virtual internship cohorts |
-| Technical Certifications | Earned certifications through technical learning platforms |
+| 🎓 Academic Performance | Strong academic performance in B.Tech AI & Data Science |
+| ☁️ AWS Internships | Completed multiple AWS virtual internship cohorts |
+| 📜 Technical Certifications | Earned certifications through technical learning |
+| 💻 GitHub Learning | Building and maintaining practical repositories |
 
 </div>
 
 ---
 
-# Certifications
+# 📜 Certifications & Virtual Internships
 
-### AWS
+### ☁️ AWS
 
 - AI In Process Intelligence Virtual Internship
 - Cloud Virtual Internship
 - Data Engineering Virtual Internship
 - Cloud Gen AI Virtual Internship
 
-### HackerRank
+### 🟢 HackerRank
 
 - SQL Basics
 
+> More internships and certifications will be added as I continue my learning journey.
+
 ---
 
-# Coding Profiles
+# 👨‍💻 Coding Profiles
 
 <div align="center">
 
@@ -189,7 +237,7 @@ My academic learning includes programming, databases, data science, machine lear
 
 ---
 
-# GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -207,7 +255,7 @@ My academic learning includes programming, databases, data science, machine lear
 
 ---
 
-# GitHub Trophies
+# 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -217,7 +265,7 @@ My academic learning includes programming, databases, data science, machine lear
 
 ---
 
-# Contribution Activity
+# 📊 Contribution Activity
 
 <div align="center">
 
@@ -227,7 +275,7 @@ My academic learning includes programming, databases, data science, machine lear
 
 ---
 
-# Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -237,19 +285,26 @@ My academic learning includes programming, databases, data science, machine lear
 
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
 ```yaml
 Learning:
   - Python
+  - Java Fundamentals
+  - React
+  - JavaScript
   - NumPy
   - Pandas
   - Matplotlib
   - Machine Learning fundamentals
-  - Git & GitHub
+
+Academic Focus:
+  - Introduction to Data Science
+  - Data Warehouse & Data Mining
 
 Building:
   - Python projects
+  - Web development projects
   - GitHub portfolio
   - Practical learning projects
 
@@ -257,7 +312,8 @@ Exploring:
   - Artificial Intelligence
   - Data Science
   - Machine Learning
-  - Software technologies
+  - Frontend Development
+  - Software Technologies
 
 Open To:
   - Internships
