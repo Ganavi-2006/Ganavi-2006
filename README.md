@@ -206,6 +206,14 @@ My academic journey combines programming, data science, machine learning, artifi
 
 # 📜 Certifications & Virtual Internships
 
+### IBM SkillsBuild – Artificial Intelligence Fundamentals
+
+Earned the **Artificial Intelligence Fundamentals** certification from **IBM SkillsBuild**, demonstrating a foundational understanding of Artificial Intelligence and its role in modern technology.
+
+**Issued:** September 2026  
+**Issuer:** IBM SkillsBuild  
+**[Verify Certificate](https://www.credly.com/badges/b3331dbe-d672-4139-a06a-d18a1d84d262)**
+
 ### ☁️ AWS
 
 - AI In Process Intelligence Virtual Internship
